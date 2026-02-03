@@ -1,0 +1,211 @@
+REF_DATE,GEO,DGUID,North American Industry Classification System (NAICS),Statistics,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2022-01,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19607.5,,,,1
+2022-02,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19626.4,,,,1
+2022-03,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19640.0,,,,1
+2022-04,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19616.9,,,,1
+2022-05,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19618.1,,,,1
+2022-06,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19649.9,,,,1
+2022-07,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19730.7,,,,1
+2022-08,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19774.3,,,,1
+2022-09,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19780.4,,,,1
+2022-10,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19800.9,,,,1
+2022-11,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19808.1,,,,1
+2022-12,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19901.4,,,,1
+2023-01,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19962.7,,,,1
+2023-02,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19959.5,,,,1
+2023-03,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19964.9,,,,1
+2023-04,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19954.4,,,,1
+2023-05,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19941.4,,,,1
+2023-06,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,19979.8,r,,,1
+2023-07,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,20052.0,,,,1
+2023-08,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,20105.8,,,,1
+2023-09,Canada,2021S0503,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,20129.5,,,,1
+2022-01,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7681.1,,,,1
+2022-02,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7678.2,,,,1
+2022-03,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7689.0,,,,1
+2022-04,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7675.9,,,,1
+2022-05,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7667.0,,,,1
+2022-06,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7684.8,,,,1
+2022-07,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7708.5,,,,1
+2022-08,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7728.6,,,,1
+2022-09,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7734.5,,,,1
+2022-10,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7742.7,,,,1
+2022-11,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7741.0,,,,1
+2022-12,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7781.6,,,,1
+2023-01,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7794.0,,,,1
+2023-02,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7798.2,,,,1
+2023-03,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7796.7,,,,1
+2023-04,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7793.8,,,,1
+2023-05,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7785.6,,,,1
+2023-06,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7802.1,r,,,1
+2023-07,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7830.1,,,,1
+2023-08,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7854.4,,,,1
+2023-09,Ontario,2021S0504,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,7856.2,,,,1
+2022-01,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4267.4,,,,1
+2022-02,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4274.6,,,,1
+2022-03,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4269.0,,,,1
+2022-04,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4266.4,,,,1
+2022-05,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4263.1,,,,1
+2022-06,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4271.0,,,,1
+2022-07,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4295.2,,,,1
+2022-08,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4308.8,,,,1
+2022-09,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4305.9,,,,1
+2022-10,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4313.4,,,,1
+2022-11,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4317.8,,,,1
+2022-12,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4338.0,,,,1
+2023-01,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4360.2,,,,1
+2023-02,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4360.0,,,,1
+2023-03,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4355.5,,,,1
+2023-04,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4344.5,,,,1
+2023-05,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4341.3,,,,1
+2023-06,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4360.1,,,,1
+2023-07,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4380.1,,,,1
+2023-08,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4393.3,,,,1
+2023-09,Quebec,2021S0505,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,4394.7,,,,1
+2022-01,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2424.9,,,,1
+2022-02,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2419.9,,,,1
+2022-03,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2422.6,,,,1
+2022-04,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2414.4,,,,1
+2022-05,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2406.2,,,,1
+2022-06,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2413.7,,,,1
+2022-07,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2438.8,,,,1
+2022-08,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2445.5,,,,1
+2022-09,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2451.4,,,,1
+2022-10,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2458.7,,,,1
+2022-11,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2461.3,,,,1
+2022-12,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2471.0,,,,1
+2023-01,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2486.2,,,,1
+2023-02,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2489.1,,,,1
+2023-03,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2495.9,,,,1
+2023-04,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2477.9,,,,1
+2023-05,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2478.3,,,,1
+2023-06,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2486.1,,,,1
+2023-07,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2505.1,,,,1
+2023-08,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2522.3,,,,1
+2023-09,Alberta,2021S0506,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2521.0,,,,1
+2022-01,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2772.6,,,,1
+2022-02,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2772.2,,,,1
+2022-03,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2769.8,,,,1
+2022-04,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2756.3,,,,1
+2022-05,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2754.8,,,,1
+2022-06,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2766.6,,,,1
+2022-07,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2784.6,,,,1
+2022-08,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2787.7,,,,1
+2022-09,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2791.2,,,,1
+2022-10,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2799.0,,,,1
+2022-11,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,,,,,1
+2022-12,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2810.2,,,,1
+2023-01,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2829.6,,,,1
+2023-02,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2826.8,,,,1
+2023-03,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2829.0,,,,1
+2023-04,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2822.6,,,,1
+2023-05,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2817.3,,,,1
+2023-06,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2823.4,,,,1
+2023-07,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2839.7,,,,1
+2023-08,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2853.7,,,,1
+2023-09,British Columbia,2021S0508,All industries,Employment,Persons,1,thousands,3,v1000000,1.1.1,2855.8,,,,1
+2022-01,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1002.6,,,,1
+2022-02,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,997.2,,,,1
+2022-03,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,998.7,,,,1
+2022-04,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,994.0,,,,1
+2022-05,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,986.1,,,,1
+2022-06,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,992.5,,,,1
+2022-07,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,996.7,,,,1
+2022-08,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,999.7,,,,1
+2022-09,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1000.8,,,,1
+2022-10,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1002.8,,,,1
+2022-11,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,997.6,,,,1
+2022-12,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1009.3,,,,1
+2023-01,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1012.8,,,,1
+2023-02,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1010.2,,,,1
+2023-03,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1010.2,,,,1
+2023-04,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1003.9,,,,1
+2023-05,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1001.7,,,,1
+2023-06,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1007.8,,,,1
+2023-07,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1015.8,r,,,1
+2023-08,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1014.6,,,,1
+2023-09,Ontario,2021S0504,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,1020.3,,,,1
+2022-01,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,628.5,,,,1
+2022-02,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,628.6,,,,1
+2022-03,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,621.7,,,,1
+2022-04,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,,,,,1
+2022-05,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,620.5,,,,1
+2022-06,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,621.7,,,,1
+2022-07,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,622.7,,,,1
+2022-08,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,630.4,,,,1
+2022-09,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,630.0,,,,1
+2022-10,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,625.3,,,,1
+2022-11,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,629.6,,,,1
+2022-12,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,631.6,,,,1
+2023-01,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,636.5,,,,1
+2023-02,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,636.7,,,,1
+2023-03,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,635.3,,,,1
+2023-04,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,631.1,,,,1
+2023-05,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,626.1,,,,1
+2023-06,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,629.3,,,,1
+2023-07,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,632.8,,,,1
+2023-08,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,636.8,,,,1
+2023-09,Quebec,2021S0505,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,637.7,,,,1
+2022-01,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,157.2,,,,1
+2022-02,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,157.9,,,,1
+2022-03,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,158.5,,,,1
+2022-04,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,155.7,,,,1
+2022-05,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,154.3,,,,1
+2022-06,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,154.7,,,,1
+2022-07,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,156.6,,,,1
+2022-08,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,160.5,,,,1
+2022-09,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,159.7,,,,1
+2022-10,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,157.9,,,,1
+2022-11,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,158.8,,,,1
+2022-12,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,161.5,,,,1
+2023-01,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,164.0,,,,1
+2023-02,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,161.8,,,,1
+2023-03,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,161.3,,,,1
+2023-04,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,159.1,,,,1
+2023-05,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,159.4,,,,1
+2023-06,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,161.3,,,,1
+2023-07,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,163.2,,,,1
+2023-08,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,162.8,,,,1
+2023-09,Alberta,2021S0506,Manufacturing,Employment,Persons,1,thousands,3,v1000000,1.1.1,163.4,,,,1
+2022-01,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,729.0,,,,1
+2022-02,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,732.4,,,,1
+2022-03,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,729.8,,,,1
+2022-04,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,717.8,,,,1
+2022-05,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,712.8,,,,1
+2022-06,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,715.1,,,,1
+2022-07,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,723.0,,,,1
+2022-08,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,729.0,,,,1
+2022-09,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,727.8,,,,1
+2022-10,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,730.9,,,,1
+2022-11,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,724.5,,,,1
+2022-12,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,733.4,,,,1
+2023-01,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,746.2,,,,1
+2023-02,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,744.0,,,,1
+2023-03,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,734.4,,,,1
+2023-04,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,728.1,,,,1
+2023-05,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,729.3,,,,1
+2023-06,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,727.4,,,,1
+2023-07,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,738.2,,,,1
+2023-08,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,743.6,,,,1
+2023-09,Ontario,2021S0504,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,742.2,,,,1
+2022-01,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,245.1,,,,1
+2022-02,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,244.8,,,,1
+2022-03,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,243.7,,,,1
+2022-04,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,237.9,,,,1
+2022-05,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,237.5,,,,1
+2022-06,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,240.8,,,,1
+2022-07,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,243.8,,,,1
+2022-08,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,246.1,,,,1
+2022-09,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,246.7,,,,1
+2022-10,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,244.3,,,,1
+2022-11,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,243.1,,,,1
+2022-12,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,249.9,,,,1
+2023-01,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,250.7,,,,1
+2023-02,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,,,,,1
+2023-03,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,251.1,,,,1
+2023-04,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,247.0,,,,1
+2023-05,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,243.7,,,,1
+2023-06,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,245.1,,,,1
+2023-07,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,247.8,,,,1
+2023-08,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,250.7,,,,1
+2023-09,Alberta,2021S0506,Construction,Employment,Persons,1,thousands,3,v1000000,1.1.1,252.6,,,,1
