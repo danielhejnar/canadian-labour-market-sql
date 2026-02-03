@@ -15,6 +15,22 @@ few rows are marked as revised to reflect typical publication conditions.
 For full analysis, replace the extract with the complete CSV from Statistics
 Canada and update the load command to point at the full file.
 
+## Outputs
+
+Outputs are split into two scopes:
+
+- Ontario-scoped samples: Small, inspectable extracts used to validate query
+  structure with a single province. Ontario is used because it is the largest
+  provincial series in the extract and has consistent coverage across months.
+- Full national outputs: The same queries run across all provinces in the
+  extract to validate generality without collapsing results.
+
+Keeping these outputs separate avoids mixing illustrative samples with full
+results in a single file.
+
+Simple SVG charts are stored in `outputs/figures/` as inspection aids tied to
+the same output files.
+
 ## Load command
 
 Example `psql` load command for the local extract:

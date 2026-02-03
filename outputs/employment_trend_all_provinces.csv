@@ -1,0 +1,84 @@
+month_start,province_name,employment,uom,scalar_factor
+2022-01-01,Alberta,2424.9,Persons,thousands
+2022-02-01,Alberta,2419.9,Persons,thousands
+2022-03-01,Alberta,2422.6,Persons,thousands
+2022-04-01,Alberta,2414.4,Persons,thousands
+2022-05-01,Alberta,2406.2,Persons,thousands
+2022-06-01,Alberta,2413.7,Persons,thousands
+2022-07-01,Alberta,2438.8,Persons,thousands
+2022-08-01,Alberta,2445.5,Persons,thousands
+2022-09-01,Alberta,2451.4,Persons,thousands
+2022-10-01,Alberta,2458.7,Persons,thousands
+2022-11-01,Alberta,2461.3,Persons,thousands
+2022-12-01,Alberta,2471.0,Persons,thousands
+2023-01-01,Alberta,2486.2,Persons,thousands
+2023-02-01,Alberta,2489.1,Persons,thousands
+2023-03-01,Alberta,2495.9,Persons,thousands
+2023-04-01,Alberta,2477.9,Persons,thousands
+2023-05-01,Alberta,2478.3,Persons,thousands
+2023-06-01,Alberta,2486.1,Persons,thousands
+2023-07-01,Alberta,2505.1,Persons,thousands
+2023-08-01,Alberta,2522.3,Persons,thousands
+2023-09-01,Alberta,2521.0,Persons,thousands
+2022-01-01,British Columbia,2772.6,Persons,thousands
+2022-02-01,British Columbia,2772.2,Persons,thousands
+2022-03-01,British Columbia,2769.8,Persons,thousands
+2022-04-01,British Columbia,2756.3,Persons,thousands
+2022-05-01,British Columbia,2754.8,Persons,thousands
+2022-06-01,British Columbia,2766.6,Persons,thousands
+2022-07-01,British Columbia,2784.6,Persons,thousands
+2022-08-01,British Columbia,2787.7,Persons,thousands
+2022-09-01,British Columbia,2791.2,Persons,thousands
+2022-10-01,British Columbia,2799.0,Persons,thousands
+2022-12-01,British Columbia,2810.2,Persons,thousands
+2023-01-01,British Columbia,2829.6,Persons,thousands
+2023-02-01,British Columbia,2826.8,Persons,thousands
+2023-03-01,British Columbia,2829.0,Persons,thousands
+2023-04-01,British Columbia,2822.6,Persons,thousands
+2023-05-01,British Columbia,2817.3,Persons,thousands
+2023-06-01,British Columbia,2823.4,Persons,thousands
+2023-07-01,British Columbia,2839.7,Persons,thousands
+2023-08-01,British Columbia,2853.7,Persons,thousands
+2023-09-01,British Columbia,2855.8,Persons,thousands
+2022-01-01,Ontario,7681.1,Persons,thousands
+2022-02-01,Ontario,7678.2,Persons,thousands
+2022-03-01,Ontario,7689.0,Persons,thousands
+2022-04-01,Ontario,7675.9,Persons,thousands
+2022-05-01,Ontario,7667.0,Persons,thousands
+2022-06-01,Ontario,7684.8,Persons,thousands
+2022-07-01,Ontario,7708.5,Persons,thousands
+2022-08-01,Ontario,7728.6,Persons,thousands
+2022-09-01,Ontario,7734.5,Persons,thousands
+2022-10-01,Ontario,7742.7,Persons,thousands
+2022-11-01,Ontario,7741.0,Persons,thousands
+2022-12-01,Ontario,7781.6,Persons,thousands
+2023-01-01,Ontario,7794.0,Persons,thousands
+2023-02-01,Ontario,7798.2,Persons,thousands
+2023-03-01,Ontario,7796.7,Persons,thousands
+2023-04-01,Ontario,7793.8,Persons,thousands
+2023-05-01,Ontario,7785.6,Persons,thousands
+2023-06-01,Ontario,7802.1,Persons,thousands
+2023-07-01,Ontario,7830.1,Persons,thousands
+2023-08-01,Ontario,7854.4,Persons,thousands
+2023-09-01,Ontario,7856.2,Persons,thousands
+2022-01-01,Quebec,4267.4,Persons,thousands
+2022-02-01,Quebec,4274.6,Persons,thousands
+2022-03-01,Quebec,4269.0,Persons,thousands
+2022-04-01,Quebec,4266.4,Persons,thousands
+2022-05-01,Quebec,4263.1,Persons,thousands
+2022-06-01,Quebec,4271.0,Persons,thousands
+2022-07-01,Quebec,4295.2,Persons,thousands
+2022-08-01,Quebec,4308.8,Persons,thousands
+2022-09-01,Quebec,4305.9,Persons,thousands
+2022-10-01,Quebec,4313.4,Persons,thousands
+2022-11-01,Quebec,4317.8,Persons,thousands
+2022-12-01,Quebec,4338.0,Persons,thousands
+2023-01-01,Quebec,4360.2,Persons,thousands
+2023-02-01,Quebec,4360.0,Persons,thousands
+2023-03-01,Quebec,4355.5,Persons,thousands
+2023-04-01,Quebec,4344.5,Persons,thousands
+2023-05-01,Quebec,4341.3,Persons,thousands
+2023-06-01,Quebec,4360.1,Persons,thousands
+2023-07-01,Quebec,4380.1,Persons,thousands
+2023-08-01,Quebec,4393.3,Persons,thousands
+2023-09-01,Quebec,4394.7,Persons,thousands

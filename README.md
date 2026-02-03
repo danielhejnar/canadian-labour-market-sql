@@ -76,6 +76,7 @@ No ORM or application layer is included.
   - `analysis_queries.sql` — analytical queries
 - `outputs/`
   - Query results (CSV or Markdown)
+  - Ontario-scoped samples and full national outputs are stored separately
 - `docs/`
   - Data notes
   - Assumptions and limitations
@@ -84,6 +85,9 @@ No ORM or application layer is included.
   - Incremental development history
 
 Each file exists to support a specific analytical purpose.
+
+Outputs are intentionally split between Ontario-scoped samples and all-province
+results to keep inspection-ready extracts separate from full runs.
 
 ## Assumptions and Limitations
 

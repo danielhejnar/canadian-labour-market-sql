@@ -6,6 +6,8 @@
 - Added a `psql` load example and clarified extract scope in data notes.
 - Captured revision `status` in the fact table during load.
 - Regenerated sample outputs to align with the updated extract.
+- Split outputs into Ontario-scoped samples and full national results.
+- Added minimal SVG charts for inspection of trend and YoY outputs.
 
 ## 2026-01-30
 - Documented assumptions around `All industries` totals and scaling factors.
